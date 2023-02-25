@@ -8,7 +8,7 @@
 
 🧠 I'm currently learning Node.js, ReactJS and MongoDB
 
-📫 How to reach me la123lucky@gmail.com
+📫 How to reach me lalitverma7511@gmail.com
 #
 
 
